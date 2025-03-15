@@ -1,6 +1,5 @@
 ---
-## Title: Email Intent Classifier
-short_description: NLP model automatically classifying emails based on intent
+Email Intent Classifier: NLP model automatically classifying emails based on intent
 ---
 
 ## Problem
