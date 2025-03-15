@@ -1,18 +1,12 @@
 ---
 title: Email Intent Classifier
-emoji: 🌍
-colorFrom: red
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.21.0
-app_file: app.py
-pinned: false
 short_description: NLP model automatically classifying emails based on intent
 ---
 #Email Intent Classifier: 
 This application helps businesses manage email overload by automatically categorizing emails based on their intent. 
+
 #Problem: 
-Email overload is a significant problem in businesses. Manually sorting and prioritizing emails takes valuable time from employees. Automatically categorizing emails by intent helps with:
+Email overload is a significant problem in businesses. Manually sorting and prioritizing emails takes valuable time from employees. Automatically categorizing emails by intent helps with -
 
     Prioritization of urgent matters
     Routing to appropriate departments
