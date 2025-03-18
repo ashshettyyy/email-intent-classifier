@@ -20,8 +20,9 @@ This app uses a fine-tuned DeBERTa transformer model to classify emails into dif
     Enter or paste an email text into the input box with subject
     Click "Submit"
     View the predicted intent categories and their probability/confidence scores
+ Try the live demo: <a href="https://huggingface.co/spaces/ashshettyyy/email-intent-classifier">Email Classifier Demo</a>
 
-    Try the live demo: <a href="https://huggingface.co/spaces/ashshettyyy/email-intent-classifier">Email Classifier Demo</a>
+    
 
 ## Model Details
 This model was fine-tuned on an email dataset with the following specifications:
